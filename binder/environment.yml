@@ -2,3 +2,19 @@ channels:
   - conda-forge
 dependencies:
   - appmode
+  - beautifulsoup4
+  - requests
+  - re
+  - numpy
+  - pandas
+  - io
+  - datetime
+  - ipywidgets
+  - IPython
+  - traitlets
+  - scipy
+  - math
+  - matplotlib
+  - pywavelets
+  - statsmodels
+  - seaborn
